@@ -8,7 +8,6 @@ imageToAscii("/home/daniel/Documents/BrainJS_Getting_Started/data/trainingSet/0/
     pixels:' #'
 }, (err, converted) => {
     console.log(converted);
- var imageConverted=converted;
- console.log(imageConverted);
+
 
 });
